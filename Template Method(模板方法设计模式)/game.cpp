@@ -12,6 +12,7 @@ void game::start_play()
 
 void game::end_play()
 {
+	std::cout << "游戏结束" << std::endl;
 }
 
 void game::play()
